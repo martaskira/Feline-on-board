@@ -116,13 +116,11 @@
 
 | Image | Description |
 |-------|-------------|
-| ![Collar Prototype](path/to/collar_prototype.jpg) | Prototype of cat collar with QT Py board and button batteries. |
-| ![Harness Prototype](path/to/harness_prototype.jpg) | Prototype of cat harness with Feather board and AA batteries. |
-| ![Collar with Feather Board](path/to/collar_with_featherboard.jpg) | IRL image: collar prototype with Feather board installed. |
-| ![LED On](path/to/led_on.jpg) | Scanner LED lit up when cat is in proximity. |
-| ![LED Off](path/to/led_off.jpg) | Scanner LED off when cat is out of proximity. |
-
-*(Replace `path/to/` with your actual image paths.)*
+| ![Collar Prototype](Collar_prototype.jpg) | Prototype of cat collar with QT Py board and button batteries. |
+| ![Harness Prototype](Harness_prototype.jpg) | Prototype of cat harness with Feather board and AA batteries. |
+| ![Collar with Feather Board](Collar_Prototype_IRL.jpg) | IRL image: collar prototype with Feather board installed. |
+| ![LED On](Close_Proximity.jpg) | Scanner LED lit up when cat is in proximity. |
+| ![LED Off](Far_Proximity.jpg) | Scanner LED off when cat is out of proximity. |
 
 ---
 
